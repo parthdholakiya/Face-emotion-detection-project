@@ -10,6 +10,7 @@ The task is to categorize each face based on the emotion shown in the facial exp
 #### Validation result
 
 ![image](https://user-images.githubusercontent.com/94167271/211168903-0ff9c624-8825-4f06-9aa4-ac521a064ea9.png)
+Best Validation Accuracy Score 0.66520
 
 use TestEmotionDetector.py to test model on video or webcam
 
