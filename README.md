@@ -1,4 +1,5 @@
 # Face-emotion-detection-project
+
 In a face emotion detection project, the goal is to build a system that can automatically identify and classify the emotion being expressed by a person in a given image or video frame. This can be used in a variety of applications, such as detecting emotions in customer service interactions, detecting emotions in social media posts, or detecting emotions in marketing research.
 
 dataset-- https://www.kaggle.com/datasets/msambare/fer2013
